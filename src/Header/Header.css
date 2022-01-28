@@ -1,0 +1,33 @@
+
+
+.header__container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header__firstline {
+    background-color: #164916;
+    height: 30px;
+}
+
+.header__secondline {
+    background-color: #577e57;
+    color: aliceblue;
+    height: 60px;
+    font-size: 30px;
+}
+
+.secondline__body {
+    margin: 0 auto;
+    width: 800px;
+}
+
+.secondline__discription {
+    padding-top: 12px;
+}
+
+
+
+
+/*-----------------------------------------------------------------------------------------------*/
+

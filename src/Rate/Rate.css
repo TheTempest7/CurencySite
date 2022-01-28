@@ -1,0 +1,56 @@
+
+/*-----------------------------------------------------------------------------------------------*/
+
+
+.caption {
+    font-size: 22px;
+    color: grey;
+    padding: 20px 0 15px 25px;
+}
+
+.main__caption {
+    font-size: 22px;
+    color: grey;
+    padding: 20px 0 15px 25px;
+}
+
+.cards {
+    display: flex;
+    padding: -20px;
+}
+
+.cards__item {
+    flex: 0 1 33.33%;
+    padding: 20px;
+}
+
+.cards__item-body {
+    background-color: #747474;
+    border: black 1px solid;
+    padding: 20px 12px;
+    display: flex;
+    flex-direction: column;
+}
+
+.cards__curency-name {
+    margin-bottom: 15px;
+}
+
+.cards__curency-first-value {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cards__curency-second-value {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: flex-end;
+    text-align: right;
+    line-height: 140%;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------*/
+

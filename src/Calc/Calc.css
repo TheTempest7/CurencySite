@@ -1,0 +1,51 @@
+
+/*-----------------------------------------------------------------------------------------------*/
+
+.calc__downside-body {
+    background-color: #747474;
+    border: black 1px solid;
+    margin: 0 20px;
+}
+
+.downside {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.dowmside__wish {
+    margin: 15px 0 0 15px;
+}
+
+.downside__radio {
+    margin: 15px 0 0 15px;
+}
+
+.downside__buy {
+    margin-bottom: 15px;
+}
+
+.downside__select {
+    margin: 15px 0 0 15px;
+}
+
+.downside__output {
+    margin: 15px 0 0 15px;
+}
+
+.output__caption {
+    margin-bottom: 5px;
+}
+
+.output__result {
+    margin-bottom: 10px;
+}
+
+.four {
+    margin-bottom: 35px;
+}
+
+
+
+/*-----------------------------------------------------------------------------------------------*/
+
