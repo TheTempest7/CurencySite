@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CurencySite/build/static/css/main.5c9cbd27.css",
-    "main.js": "/CurencySite/build/static/js/main.aacb6c55.js",
-    "static/js/787.c39012cf.chunk.js": "/CurencySite/build/static/js/787.c39012cf.chunk.js",
-    "index.html": "/CurencySite/build/index.html",
-    "main.5c9cbd27.css.map": "/CurencySite/build/static/css/main.5c9cbd27.css.map",
-    "main.aacb6c55.js.map": "/CurencySite/build/static/js/main.aacb6c55.js.map",
-    "787.c39012cf.chunk.js.map": "/CurencySite/build/static/js/787.c39012cf.chunk.js.map"
+    "main.css": "./static/css/main.5c9cbd27.css",
+    "main.js": "./static/js/main.4bacbf95.js",
+    "static/js/787.c39012cf.chunk.js": "./static/js/787.c39012cf.chunk.js",
+    "index.html": "./index.html",
+    "main.5c9cbd27.css.map": "./static/css/main.5c9cbd27.css.map",
+    "main.4bacbf95.js.map": "./static/js/main.4bacbf95.js.map",
+    "787.c39012cf.chunk.js.map": "./static/js/787.c39012cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c9cbd27.css",
-    "static/js/main.aacb6c55.js"
+    "static/js/main.4bacbf95.js"
   ]
 }
